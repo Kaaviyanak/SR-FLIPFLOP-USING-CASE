@@ -53,9 +53,9 @@ Step7: Obtain the place and route report.
 
  Program for flipflops and verify its truth table in quartus using Verilog programming.
  
- Developed by:DASHVIN S
+ Developed by:Kaaviyan.k
  
-RegisterNumber:24901048
+RegisterNumber:24006507
 
 ~~~
 module sr(s, r, clk, rst, q, qbar);
